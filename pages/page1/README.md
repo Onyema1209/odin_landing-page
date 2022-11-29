@@ -1,1 +1,0 @@
-landing page set to place, only html and css applied.
